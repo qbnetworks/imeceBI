@@ -1,10 +1,10 @@
-# PowerBI
+# imeceBI 
 
-PowerBI solutions by QB Networks
+imeceBI solutions by QB Networks
 
 ## License
 
-PowerBI solutions by QB Networks
+imeceBI solutions by QB Networks
 
 Copyright (C) 2024-2025 QB Networks
 
